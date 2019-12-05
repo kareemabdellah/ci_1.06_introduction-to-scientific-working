@@ -1,0 +1,104 @@
+# Task: Research Existing Work
+
+## _Optional:_ Group
+
+- Kareem Ahmed Abdellah
+- Ömer Özgün Üngüder
+- Aya Boulmane
+- Issam Channouf
+
+## Topic _Light Emitting Diode_
+
+### Highly efficient white organic light-emitting diode
+
+[Link to paper](https://aip.scitation.org/doi/full/10.1063/1.2186080)
+
+#### Answers:
+
+##### Hypothesis:
+
+Phosphorescent emission can provide high power efficiencies and recent development in green and blue phosphorescence organic light-emitting diodes (PHOLEDs) have shown, that efficient organic light-emitting diodes (OLEDs) can be fabricated by the means of a solution based process
+
+
+Researchers present a highly efficient white electroluminescence device by the combination of a solution processed blue organic phosphorescence light-emitting diode with appropriate down-conversion phosphor system. The use of this down-conversion system produced an extraordinary enhancement on device performance, resulting in a white electroluminescence device with luminance efficacy of 25lm∕W at luminance efficiency reaching 39cd∕A. The extraordinary enhancement on device performance is attributed to isotropic radiation pattern of the excited phosphor particles, leading to high light extraction properties.
+
+
+##### Experimets:
+
+
+in order to prove the hypothesis the did several comparsions with diffrent samples. once they get the test results ,they compare it to the therotical results and tey found a difference due to the enhancement of phosphor and emittimg light. in order to verify their findings, they made extra search and according the result of their final test they verified their hypothesis.
+##### Conclusion
+
+Thus, in the case of the down-conversion layer presented here, we propose, that a more isotropic radiation pattern of the particles leads to a higher light extraction enhancement due to the excitation/re-emission mechanism.
+
+
+In conclusion we demonstrated a highly efficient white light-emitting device based on a blue PHOLED down-converted with an appropriate phosphor layer. Such a device can be fabricated cheaply, due to the solution based production process of the PHOLED and due to the simple application technique of the down-conversion layer. Extraordinary enhancement of the device’s external light output was observed, resulting in a 25lm∕W white light-emitting diode performance. This strong enhancement was attributed to the isotropic radiation pattern of the excited phosphor particles.
+
+## Topic _Ethernet_
+#### Answers:
+#####Hypothesis:
+
+https://www.oreilly.com/library/view/ethernet-the-definitive/1565926609/ch01.html
+
+Researches were trying to figure out a network system for interconnecting advanced computer workstations, making it possible to send data to one another and to high-speed laser printers.
+And the idea was also developed to find a more economically efficient Network that can be affordable for almost everyone. As since the early 1970s were an era in which computing was dominated by large and very expensive mainframe computers. Few places could afford to buy and support mainframes, and few people knew how to use them.
+To be more specifies the Ethernet is the improvements of the arbitrating access to a shared communications channel called “ Aloha”, including a mechanism that detected when a collision occurred (collision detect). The system also included “listen before talk,” in which stations listened for activity (carrier sense) before transmitting, and supported access to a shared channel by multiple stations (multiple access).It also had a more sophisticated backoff algorithm, which, in combination with the CSMA/CD protocol, allowed the Ethernet system to function at up to 100 percent load.
+
+#### Experiments:
+The first experiment can be considered to be the previous network to the Ethernet , as the idea was based on it, but improved. And that’s the Aloha: its protocol was very simple, an Aloha station could send whenever it liked, and then waited for an acknowledgment. If an acknowledgment wasn’t received within a short amount of time, the station assumed that another station had also transmitted simultaneously, causing a collision in which the combined transmissions were garbled so that the receiving station did not hear them and did not return an acknowledgment. Upon detecting a collision, both transmitting stations would choose a random backoff time and then retransmit their packets with a good probability of success. However, as traffic increased on the Aloha channel, the collision rate would rapidly increase as well.
+Then it was developed an experimental network that was called the Alto Aloha Network. In 1973, the name was changed to "Ethernet,” to make it clear that the system could support any computer—not just Altos—and to point out that his new network mechanisms had evolved well beyond the Aloha system. The name was based on the word “ether” as a way of describing an essential feature of the system: the physical medium  carries bits to all stations, much the same way that the old " luminiferous ether” was once thought to propagate electromagnetic waves through space. Thus, Ethernet was born.
+In 1998, Ethernet was reinvented yet again, this time to increase its speed by another factor of ten. The new Gigabit Ethernet standard describes a system that operates at the speed of 1 billion bits per second over fiber optic and twisted-pair media. The invention of Gigabit Ethernet makes it possible to provide very fast backbone networks as well as connections to high-performance servers.
+
+#### Conclusion:
+To sum up, we displayed a network that is capable of interworking with all types of computers without being vendor-specific. Affordable for everyone, and making the networking technology non-exotic and non-propriertary. As well as, as a maximum utility  and greatest flexibility, and a higher interconnection speed.This  standard made the technology available to anyone who wanted to use it, producing an open system. 
+
+
+
+...
+
+## Topic _Digital Voltmeter_
+
+###Development of a Digital Multimeter: A Low-Cost Design Approach
+
+https://pdfs.semanticscholar.org/7db2/c7f84b2b28ee82fa26e301ccebf625d631ef.pdf
+
+####Hypothesis
+
+ This paper shed lights on the
+development of a low cost Multimeter using digital electronic
+circuitry. The proposed device is able to measure various
+electrical parameter in the certain specified range. A simple,
+but highly accurate, sampling method for the measurement of
+frequency in combination of other parameters are corporate
+here by means of a digital multimeter(DMM)
+
+####Experiments
+
+The AT89S52 microcontroller reads the input quantity
+through one of the 8 analog channels and converts it to a
+10-bit digital number using the internal ADC. Doing some
+calculation with ADC conversion, this number can be
+converted to the actual measured voltage. The voltage is
+displayed through a LCD display unit.
+
+####Conclusion
+The dual-slope ADC converter with very simple and
+inexpensive hardware, in contrast to the highly
+sophisticated and expensive hardware described in meets
+all price and accuracy requirements for the design of the
+measurement system.[10]This reduces the price of the
+entire device, while the high level of accuracy in
+processing ac values is preserved, better than in some other
+solutions ith excellent noise rejection. The necessary
+synchronization is achieved by software measurements of
+the frequency of the measured signal. The prototype of a
+digital multimeter is being tested in the The precision limit
+of the instrument was investigated theoretically,
+experimentally and by simulation. Field experiments gave
+excellent confirmation of the good application properties
+of this instrument. By eliminating the sample-and-hold
+circuit from the final design of the measuring system, a
+possible source of systematic errors is eliminated and
+hardware requirements are significantly simplified.
+
+...
